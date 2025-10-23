@@ -10,16 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ericphanson/value-tier.git"
+    "url": "git+https://github.com/ericphanson/valuetier.org.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/ericphanson/value-tier/issues"
+    "url": "https://github.com/ericphanson/valuetier.org/issues"
   },
-  "homepage": "https://github.com/ericphanson/value-tier#readme",
+  "homepage": "https://github.com/ericphanson/valuetier.org#readme",
   "devDependencies": {
     "@tailwindcss/container-queries": "^0.1.1",
     "@types/node": "^24.6.1",
