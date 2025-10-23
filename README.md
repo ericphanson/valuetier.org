@@ -47,6 +47,9 @@ npm run dev
 # Build for production
 npm run build
 
+# Build without minification (readable JS output)
+npm run build:readable
+
 # Preview production build
 npm run preview
 ```
