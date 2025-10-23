@@ -34,3 +34,26 @@ React, TypeScript, Tailwind CSS. Code written by Claude Sonnet 4.5.
 You clear local storage by adding `?clear=1` to the URL. For example: `https://valuetier.org/?clear=1`. This is usually only needed by developers, as the UI provides a mechanism to delete lists. If the UI isn't loading though, clearing local storage could help.
 
 Note: This will delete all your saved lists, so make sure you have exported any important lists first!
+
+### Development
+
+```bash
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+
+# Build without minification (readable JS output)
+npm run build:readable
+
+# Preview production build
+npm run preview
+```
+
+**Deployment:** Push to the main branch to trigger automatic build and deployment.
+
+See [CLAUDE.md](CLAUDE.md) for detailed architecture notes, state management patterns, and contribution guidelines.
