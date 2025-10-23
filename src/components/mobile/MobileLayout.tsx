@@ -476,7 +476,7 @@ export const MobileLayout: React.FC<MobileLayoutProps> = ({
         {/* Footer */}
         <div className="text-center py-4 px-4 text-xs text-gray-500 dark:text-gray-400 border-t border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800">
           <a
-            href="https://github.com/ericphanson/value-tier"
+            href="https://github.com/ericphanson/valuetier.org"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-gray-700 dark:hover:text-gray-200 hover:underline"

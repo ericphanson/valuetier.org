@@ -12,7 +12,7 @@ To create your list, the website supports both a "desktop mode" and a "mobile mo
 
 Go to https://valuetier.org/ to use the app.
 
-If you have problems, you can [file an issue](https://github.com/ericphanson/value-tier/issues/new), which needs a free GitHub account. You can also contact me [here](https://ericphanson.com/contact), though I am not always responsive.
+If you have problems, you can [file an issue](https://github.com/ericphanson/valuetier.org/issues/new), which needs a free GitHub account. You can also contact me [here](https://ericphanson.com/contact), though I am not always responsive.
 
 
 ## Design goals

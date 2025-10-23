@@ -2121,7 +2121,7 @@ const ValuesTierList = () => {
         {/* Footer */}
         <div className="text-center py-3 text-xs text-gray-500 print-hide">
           <a
-            href="https://github.com/ericphanson/value-tier"
+            href="https://github.com/ericphanson/valuetier.org"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-gray-700 hover:underline"
